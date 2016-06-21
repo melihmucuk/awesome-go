@@ -242,6 +242,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [tidb](https://github.com/pingcap/tidb) - TiDB is a distributed SQL database. Inspired by the design of Google F1.
 * [tiedot](https://github.com/HouzuoGuo/tiedot) - Your NoSQL database powered by Golang.
 * [Tile38](https://github.com/tidwall/tile38) - A geolocation DB with spatial index and realtime geofencing.
+* [geocache](https://github.com/melihmucuk/geocache) - An in-memory cache that is suitable for geolocation based applications.
 
 *Database tools.*
 
